@@ -4,7 +4,7 @@ Willkommen zum TokTok Frontend-Projekt! Dieses Projekt ist von der beliebten Soc
 
 ## Über TokTok
 
-TokTok ist eine Webanwendung, die es Benutzern ermöglicht, Fotos und Videos hochzuladen, zu teilen und mit anderen Benutzern zu interagieren. Ähnlich wie bei Instagram können Benutzer ihre eigenen Profile erstellen, Beiträge veröffentlichen, andere Benutzer folgen und deren Beiträge kommentieren und liken.
+TokTok ist eine Webanwendung, die es Benutzern ermöglicht, Fotos hochzuladen, zu teilen und mit anderen Benutzern zu interagieren. Ähnlich wie bei Instagram können Benutzer ihre eigenen Profile erstellen, Beiträge veröffentlichen, andere Benutzer folgen und deren Beiträge kommentieren und liken.
 
 ## Technologien
 
